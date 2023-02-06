@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495327050223",
+    "firebase_url": "https://sethu-grootan-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sethu-grootan",
+    "storage_bucket": "sethu-grootan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495327050223:android:0903d3e4ad06719e7a9e1a",
+        "android_client_info": {
+          "package_name": "com.sethupriya.grootanapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495327050223-fe6qlsl7888ts7u12cabeus5t9p7t3au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyXkHFxCDwkya3z_68JSD3Sobx8wnKNpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495327050223-fe6qlsl7888ts7u12cabeus5t9p7t3au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
